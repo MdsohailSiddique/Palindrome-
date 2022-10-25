@@ -1,0 +1,10 @@
+Class Circle{
+public static void main(double r)
+{
+double a,c;
+a=3.14*Math.pow(r,2);
+c=2*3.14*r;
+System.out.println("the area of Circle="+a);
+System.out.println("the circumference="+c);
+}
+}
